@@ -9,3 +9,6 @@ Dans ce projet j'ai acquis les compétences suivantes :
 - Utilisation des reducers et des actions
 - Faire transiter les informations (de manière descendante et ascendante)
 - Utilisation de l'extension ReduxDevTools
+
+Les prochaines compétences ne sont pas propres au react mais je les ai découvert grâce à ce projet :
+-Utilisation du module json-server
